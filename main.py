@@ -1,2 +1,2 @@
-# print function on mian branch
-print('hello, world') 
+# print function on stem branch
+print('hello, python on stem!')
